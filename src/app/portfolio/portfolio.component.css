@@ -1,0 +1,15 @@
+
+div.Portfolio{
+    color:#2C3E50;
+    margin-top: 12vh;
+    padding-bottom: 50px;
+}
+.layer{
+    background-color: #1abc9ce6;
+    opacity: 0;
+    cursor: pointer;
+    transition: .6s opacity;
+}
+.model{
+    z-index: 9999;
+}

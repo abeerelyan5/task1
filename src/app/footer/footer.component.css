@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+div.section1{
+    background-color:#2C3E50;
+}
+div.section2{
+    background-color:#1A252F;
+    padding: 20px;
+}
+div{
+    padding: 40px;
+    margin: 0;
+}

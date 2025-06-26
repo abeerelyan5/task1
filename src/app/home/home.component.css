@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
+div.Home{
+    background-color: #1c9e84;
+    margin-top: 13vh;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+img{
+    width: 300px;
+}

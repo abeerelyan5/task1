@@ -1,0 +1,13 @@
+
+div.Contact{
+    color:#2C3E50;
+    margin-top: 12vh;
+}
+label{
+    color: #1ABC9C;
+    margin-bottom: 7px;
+    transition: .6s top;
+}
+button{
+    background-color: #1abc9c;
+}
